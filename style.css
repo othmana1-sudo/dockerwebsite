@@ -25,7 +25,7 @@ h4 {
     /**
    ########################################### page title ######################################
       */
-    background-image: url(../img/bg-35.jpg);
+    background-image: url(bg-35.jpg);
     image-rendering: pixelated;
     height: 500px;
     background-size: cover;
